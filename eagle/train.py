@@ -13,7 +13,7 @@ import contextlib
 import safetensors
 import transformers
 
-from eagle.llama2 import Llama2Model
+from llama2 import Llama2Model
 
 
 def coach() -> None:
